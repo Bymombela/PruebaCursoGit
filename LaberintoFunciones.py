@@ -41,3 +41,4 @@ def mover_jugador(fila_jugador, columna_jugador, movimiento):
     return fila_jugador, columna_jugador
 #15/03/2024
 #Byron Mombela, Yarib Michel, Ramon Valenzuela
+#Modificacion
